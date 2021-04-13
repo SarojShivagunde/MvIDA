@@ -1,9 +1,6 @@
 # MvIDA
 Multi-view Incremental Discriminant Analysis
 
-# MvIDA
-Multi-view Incremental Discriminant Analysis
-
 1. mvInc_chEC.m
 This file contains a function to train a model using 'Chunk Increment - Existing Class' formulation of MvIDA.
 
