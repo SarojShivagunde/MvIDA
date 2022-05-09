@@ -14,3 +14,6 @@ This file contains a function to train a model using 'Sequential Increment - Exi
 This file contains a function to train a model using 'Sequential Increment - New Class' formulation of MvIDA.
 
 Details of input/output parameters are given in function files.
+
+5. MvIDA.py
+This file contains Python code for all four cases of MvIDA mentioned above.
