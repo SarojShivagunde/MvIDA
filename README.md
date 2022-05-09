@@ -16,4 +16,4 @@ This file contains a MATLAB function to train a model using 'Sequential Incremen
 Details of input/output parameters are given in function files.
 
 5. MvIDA.py :
-This file contains Python code for all four cases of MvIDA mentioned above.
+This file contains Python module for all four cases of MvIDA mentioned above.
